@@ -7,6 +7,7 @@
 * [Corba相关](corbaxiang-guan.md)
   * [Corba兴衰史](corbaxiang-guan/corbaxing-shuai-shi.md)
 * JavaEE相关
+  * [什么是JavaEE](javaEE/what is JavaEE.md)
 * 微软中间件相关
 * Web框架
   * SSH
